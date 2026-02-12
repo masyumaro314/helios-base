@@ -1,2 +1,7 @@
 Game 1: No log file found
 Game 1: 
+Game 1: Check log manually
+Game 2: Check log manually
+Game 3: Check log manually
+Game 4: Check log manually
+Game 5: Check log manually
